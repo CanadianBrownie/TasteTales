@@ -1,21 +1,4 @@
-# Template for food
-How I am reviewing the food, as I try more food this will may change, if some of the rubric decisions don't make sense either I may also change them.
-
-## Name
-**Date:**
-
-**Name:**\
-**Review:**\
-**Rating:**
-
-**Overall Food Rating**\
-**Restaurant Vibe:**\
-**Additional Notes:**\
-**Restaurant rating:**\
-**Overall Price:**
-
-
-<ins>**Restaurant Ratings Rubric**</ins>
+# <ins>**Restaurant Ratings Rubric**</ins>
 
 |Wait Time | Points |
 |----------|--------|

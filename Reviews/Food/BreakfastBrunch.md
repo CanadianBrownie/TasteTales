@@ -1,6 +1,7 @@
 # Breakfast/Brunch
 
 ## Flippers
+**Location:** [31 Elm St, Toronto, ON M5G 1H1](https://maps.app.goo.gl/CujTNQFHQ55FWjSt6)\
 **Date:** 02/06/2024
 
 &nbsp;
@@ -43,6 +44,7 @@ Friend got waffle and friend chicken. Had a small bite of the chicken, was reall
 **Overall Price:** 32.21 (36.21)
 
 ## KarKumi Cafe
+**Location:** [4033 Gordon Baker Rd, Scarborough, ON M1W 2P3](https://maps.app.goo.gl/5hKbp3tYphdorTWw9)\
 **Date:** 01/08/2024
 
 &nbsp;
