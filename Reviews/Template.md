@@ -16,5 +16,37 @@ How I am reviewing the food, as I try more food this will may change, if some of
 **Restaurant rating:**\
 **Overall Price:**
 
+<ins>**Quick Review Summary**</ins>\
+The food rating and restaurant are out of 100 in the summary table and out of 10 to two decimal places in full review section
+
+|Food Rating (100) | Restaurant rating (100)| Second Visit Chance (%)| Cost| Worth | Would Recommend|
+|:----------------:|:----------------------:|:----------------------:|:----:|:----:|:--------------:|
+|      100         |         100            |         100            | $$$$ |Yes/No|    Yes/No      |
+
+<ins>**Food Rating Reference Scale**</ins>
+
+|Level |Rating Score|
+|:-----|:-----------|
+|:-----|:-----------|
+|2|Desperate, only thing open food|
+|3|Food is edible|
+|4|Slighty below average|
+|5|Average|
+|6|Slight above average|
+|7|Not too bad, chance of trying again|
+|8|Pretty good, liked the taste and flavoring in general|
+|9|Worh it, really good, maybe slight change or small thing I did not like|
+|10|The best thing I have had, would not change a thing|
+
+<ins>**Cost Reference Scale**</ins>
+
+|Value |Meaning|
+|:-----|:-----------|
+|$|Cheap|
+|$$|Moderately priced|
+|$$$|Slighty above what I want to pay|
+|$$$$|Expensive|
+|$$$$$|Fine dining expensive|
+
 
 #Reviews

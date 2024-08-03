@@ -25,11 +25,11 @@
 
 |Restaurant Ambiance| Points |
 |----------|--------|
-|Clean space (incl. table seated)|+ .25|
+|Clean space (incl.  table seated)|+ .25|
 |Clean Washroom| + .25|
 |Spacious| + .25|
 |Atmospheric Charm| + 1|
-|Dirty Space (incl. table seated)|- .5|
+|Dirty Space (incl.  table seated)|- .5|
 |Dirty Washroom|- .25|
 |Too Cramped|- .15|
 
