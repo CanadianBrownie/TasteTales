@@ -1,12 +1,12 @@
 # Breakfast/Brunch
 
 ## Flipper's
-**Location:** [31 Elm St, Toronto, ON M5G 1H1](https://maps.app.goo.gl/CujTNQFHQ55FWjSt6) <img src="../OtherImages/google_maps_ic.png" width="10" height="14" /> \
+**Location:** [31 Elm St, Toronto, ON M5G 1H1](https://maps.app.goo.gl/CujTNQFHQ55FWjSt6) [<img src="../OtherImages/google_maps_ic.png" width="10" height="14" />](https://maps.app.goo.gl/CujTNQFHQ55FWjSt6) \
 **Date:** 02/06/2024
 
 <ins>**Quick Review Summary**</ins>
 
-|Food Rating (100) | Restaurant rating (100)| Second Chance (%)| Cost| Worth | Would Recommend|
+|Food Rating (100) | Restaurant rating (100)| Second Visit Chance (%)| Cost| Worth | Would Recommend|
 |:----------------:|:----------------------:|:----------------------:|:----:|:----:|:--------------:|
 |58.5|73.5|65%|$$|No|No|
 
@@ -50,12 +50,12 @@
 **Overall Price:** 36.21 (12%)
 
 ## KarKumi Cafe
-**Location:** [4033 Gordon Baker Rd, Scarborough, ON M1W 2P3](https://maps.app.goo.gl/5hKbp3tYphdorTWw9)\
+**Location:** [4033 Gordon Baker Rd, Scarborough, ON M1W 2P3](https://maps.app.goo.gl/5hKbp3tYphdorTWw9)[<img src="../OtherImages/google_maps_ic.png" width="10" height="14" />](https://maps.app.goo.gl/5hKbp3tYphdorTWw9)\
 **Date:** 01/08/2024
 
 <ins>**Quick Review Summary**</ins>
 
-|Food Rating (100) | Restaurant rating (100)| Second Chance (%)| Cost| Worth | Would Recommend|
+|Food Rating (100) | Restaurant rating (100)| Second Visit Chance (%)| Cost| Worth | Would Recommend|
 |:----------------:|:----------------------:|:----------------------:|:----:|:----:|:--------------:|
 |77|85|70%|$$$|Yes|Yes|
 

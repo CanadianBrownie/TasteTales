@@ -1,7 +1,7 @@
 # Template for food
 How I am reviewing the food, as I try more food this will may change, if some of the rubric decisions don't make sense either I may also change them.
 
-## Name
+## Place Name
 
 **Location**: (google maps location pin) [<img src="OtherImages/google_maps_ic.png" width="10" height="14" />](OtherImages/google_maps_ic.png) \
 **Date:**
@@ -10,23 +10,25 @@ How I am reviewing the food, as I try more food this will may change, if some of
 **Review:**\
 **Rating:**
 
+----
+
 **Overall Food Rating**\
 **Restaurant Vibe:**\
 **Additional Notes:**\
 **Restaurant rating:**\
 **Overall Price:**
 
-<ins>**Quick Review Summary**</ins>\
-The food rating and restaurant are out of 100 in the summary table and out of 10 to two decimal places in full review section
+<ins>**Quick Review Summary**</ins>
 
-|Food Rating (100) | Restaurant rating (100)| Second Visit Chance (%)| Cost| Worth | Would Recommend|
+|Food Rating (100) | Restaurant rating (100)| Second Chance (%)| Cost| Worth | Would Recommend|
 |:----------------:|:----------------------:|:----------------------:|:----:|:----:|:--------------:|
 |      100         |         100            |         100            | $$$$ |Yes/No|    Yes/No      |
+
+&nbsp;
 
 <ins>**Food Rating Reference Scale**</ins>
 
 |Level |Rating Score|
-|:-----|:-----------|
 |:-----|:-----------|
 |2|Desperate, only thing open food|
 |3|Food is edible|
